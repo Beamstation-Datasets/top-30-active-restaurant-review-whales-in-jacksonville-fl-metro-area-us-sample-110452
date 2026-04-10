@@ -1,0 +1,12 @@
+{
+  "export_job_id": "cea9b081-bc5a-4cc2-b556-3290ad793c48",
+  "id_short": 110452,
+  "published_at": "2026-04-10T19:05:37Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-jacksonville-fl-metro-area-us-sample-110452",
+  "sample_asset_name": "beamstation_110452_restaurants-us-jacksonvillefl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/110452/beamstation_110452_restaurants-us-jacksonvillefl_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "5029b7c0b611272746f4ec7afcb905c32f7463b0835f3701e275951819f15cfa",
+  "sample_size_bytes": 56733,
+  "total_records": 1275
+}
